@@ -1,0 +1,4 @@
+mymean
+======
+
+mymean
