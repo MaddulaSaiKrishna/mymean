@@ -1,4 +1,1 @@
-mymean
-======
-
-mymean
+testingmean
